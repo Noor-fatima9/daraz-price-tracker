@@ -9,6 +9,6 @@ Track any Daraz.pk product price. Get email alerts when price drops.
 - Built with Python
 
 ## Fiverr Services
-I build custom Daraz price tracker bots. Contact: noorfatimanoor931@gmail.com
+I build custom Daraz price tracker bots. Contact: nooriub468@gmail.com
 
 Star this repo if it helps!
